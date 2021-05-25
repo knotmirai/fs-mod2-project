@@ -33,7 +33,6 @@ King County House Sales dataset
 
 4. After observing the data, factors, that could be used for the prediction model, are the square footage of the home, square footage of house apart from the basement, square footage of the basement, square footage of interior housing living space for the nearest 15 neighbors, number of bedrooms and bathrooms, grade, house condition and number of floors.
 
-Est.Price = 0.23x *sqft_living* + 0.12x *sqft_above* + 0.12x *sqft_basement* + 0.09x *sqft_living15* - 0.05x *bedrooms* - 0.08x *bathrooms* + 0.33x *grade* + 0.22x *condition* +0.11x *floors*
 
 ## Future Plan
 
