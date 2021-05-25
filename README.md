@@ -7,9 +7,9 @@
 From the sales data in King County, I will do the data analysis and select influence factors for making a prediction model. Then, the following questions will be answered:
 
 1. How does the location affect the price?
-2. Can we predict the price from a condition?
-3. Do building and renovation times affect the price?
-4. Does selling time affect the price?
+2. Do building and renovation times affect the price?
+3. Does selling time affect the price?
+4. Can we predict the price from a condition?
 
 ## The Dataset
 
