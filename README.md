@@ -31,7 +31,9 @@ King County House Sales dataset
 
 3. After observing the data, it seems that there is no effect on selling price from selling time. The mean and median of year, month, and day seem to be the same.
 
-4. After observing the data, factors, that could be used for the prediction model, are the square footage of the home, square footage of house apart from the basement, square footage of the basement, square footage of interior housing living space for the nearest 15 neighbors, number of bedrooms and bathrooms, grade, house condition and number of floors.
+4. After observing the data, factors, that could be used for the prediction model below:
+
+Est.Price = 0.2827x *sqft_living* + 0.4312x *grade* + 0.2161x *condition* + 0.0614x *floors* + 0.3554x *lat* +0.2396x *waterfront* - 0.1997
 
 
 ## Future Plan
